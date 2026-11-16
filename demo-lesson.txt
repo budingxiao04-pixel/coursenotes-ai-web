@@ -1,0 +1,4 @@
+細胞膜由磷脂雙層構成，具有選擇性通透性。磷脂分子的親水端朝向細胞內外的水溶液，疏水端則朝向膜的內部。
+The cell membrane consists of a phospholipid bilayer and is selectively permeable.
+簡單擴散不需要細胞額外提供 ATP。促進性擴散依靠通道蛋白或載體蛋白，也不直接消耗 ATP。
+主動運輸可以逆濃度梯度移動物質，通常需要能量。
